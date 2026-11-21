@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="marka/wintra-crm-logo-koyu-zemin.png">
+    <img src="marka/wintra-crm-logo-acik-zemin.png" alt="Wintra CRM by Ascendia" width="420">
+  </picture>
+</p>
+
 # Wintra CRM
 
 **Wintra CRM by Ascendia, built on Twenty.** A B2B sales CRM built on self-hosted [Twenty](https://twenty.com), the open-source CRM — **without forking Twenty's core**.
@@ -56,7 +63,7 @@ Secrets are never stored in the repository: every key is read from a `600` file 
 
 Working on a self-hosted development instance with demo data.
 
-Wintra CRM is an Ascendia product, not a Twenty product, and is supported by Ascendia, not by Twenty. Ascendia is a member of the Twenty Integrator program; it is not otherwise affiliated with Twenty.com PBC. The Twenty name and logo belong to Twenty.
+Wintra CRM is a CRM solution for B2B sales teams developed by Ascendia. It is built on Twenty CRM. Development and support are provided by Ascendia. Ascendia is a member of the Twenty Integrator program. The Twenty name and logo belong to Twenty.
 
 ## About Ascendia
 
